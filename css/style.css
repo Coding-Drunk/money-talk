@@ -360,3 +360,16 @@ section {
   @media only screen and (max-width: 500px) {
   .omb_login h2 {font-size: 18px;}
 }
+
+.radio-inline, .checkbox-inline {
+  margin-top: 42px; 
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.radio-inline, .checkbox-inline input {
+  margin-top: 8px;
+  padding-right: 30px;
+}
+
+
